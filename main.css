@@ -1,0 +1,133 @@
+body
+{
+	background-color:black;
+	color:#F0E68C;
+    font-family: 'Amatic SC', cursive;
+	font-size: 20px;
+}
+.container
+{
+	padding-bottom:40px;
+}
+
+
+#head
+{
+	text-align: center;
+}
+.tekstkolor
+{
+	color:rgb(241, 28, 21);
+	font-size:45px;
+}
+
+.cal
+{
+background-color:black;
+color:rgb(188, 19, 255);
+font-size:40px;
+}
+.calq
+{
+background-color:black;
+color:rgb(87, 226, 231);
+font-size:40px;
+}
+.calw
+{
+background-color:black;
+color:rgb(188, 19, 255);
+font-size:40px;
+}
+
+
+
+
+.media
+{
+	float:center;
+	margin:auto;
+	color:rgb(87, 226, 231);
+}
+.mediaw
+{
+	float:center;
+	margin:auto;
+	color:rgb(188, 19, 255);
+}
+
+
+.a
+{
+	border-radius: 25px 50px;
+	background-color:black;
+	font-size:40px; 
+	box-shadow: 10px 10px 5px black;
+}
+.frame
+{
+	border-radius:50px; 
+	border-width: medium;
+	
+
+}
+
+.g
+{
+	border-radius:30px;
+}
+.lcolor
+{
+	color:rgb(87, 226, 231) !important;
+	font-size:35px;
+
+}
+.qcolor
+{
+	color:rgb(0, 255, 13) !important;
+	font-size:35px;
+
+}
+.wcolor
+{
+	color:rgb(255, 251, 20) !important;
+	font-size:35px;
+
+}
+.ecolor
+{
+	color:rgb(241, 28, 21) !important;
+	font-size:35px;
+
+}
+.rcolor
+{
+	color:rgb(188, 19, 255) !important;
+	font-size:35px;
+
+}
+.tcolor
+{
+	color:rgb(240, 98, 16) !important;
+	font-size:35px;
+
+}
+.ycolor
+{
+	color:rgb(16, 240, 184) !important;
+	font-size:35px;
+
+}
+.ucolor
+{
+	color:rgb(16, 169, 240) !important;
+	font-size:35px;
+
+}
+.m 
+{
+	border-bottom: 4px dotted #F0E68C !important;
+	margin-bottom:10px;
+	padding-right:5px;
+	padding-left:5px;
+}
